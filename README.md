@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and neural networks
 - 📫 How to reach me
   Email: neo@sellberg-astrom.se
-  \nDiscord username: neosell (will almost certainly respond here)
+  , Discord username: neosell (will almost certainly respond here)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a cat person.
 
