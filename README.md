@@ -4,6 +4,7 @@
 - 📫 How to reach me
   Email: neo@sellberg-astrom.se
   , Discord username: neosell (will almost certainly respond here)
+- 🇬🇧 Fluent Languages: English🇬🇧 and Swedish🇸🇪
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a cat person.
 
